@@ -8,7 +8,10 @@ The provided code implements a Streamlit-based application named "medical_LLM," 
 ## How It Works
 ------------
 
-(./docs/PDF-LangChain.jpg)
+![PDF-LangChain](https://github.com/Abhisekguha/MED_LLM/assets/119780796/4cb65e38-8013-4a31-91a1-ded3a6eb98a3)
+
+![Screenshot (6)](https://github.com/Abhisekguha/MED_LLM/assets/119780796/6812d9fa-c814-4719-b137-5558e409afb9)
+
 
 The application follows these steps to provide responses to your questions:
 
